@@ -47,4 +47,4 @@ Multiple classifiers were trained and evaluated:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/iris-flower-classification.git
+   git clone https://github.com/jmokhtarx/iris-flower-classification.git
